@@ -1,0 +1,9 @@
+{ 
+    "DBConnection": {
+        "SQLDIAD": "Data Source=172.16.0.4;Initial Catalog=DIAD;User ID=AppDBAccess;Password=appdbaccess;"
+    },
+    "URL": {
+        "Tags": "https://cm3.informationpages.net/api/polylogics/get-tags.php?pubid=1030&key=56e9eb851bd48"        
+    }
+ }
+
